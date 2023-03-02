@@ -192,9 +192,11 @@ map
 
 # <span style="font-size:200%;">`r params$title`</span> {.tabset .tabset-fade .tabset-pills}  
 
-#### `r params$author` | `r params$social`    
+#### `r params$author` | `r params$social`   
 
 ### Select your snack and explore the map      
+
+Switch among the tabs for different categories. Use the 'Locate me' and 'Reset zoom' buttons in the map to recentre. More snack categories to come.        
   
 ## <span style="color:`r params$primary`;">Favourites</span>
 ```{r,echo=F,warning=F,message=F, width="100%",height="100%"}
